@@ -3,6 +3,6 @@
 📌This is being done by setting up a server on AWS and then creating client-side code implementing socket programming with multithreading
 <h4> Demo Picture <h4>
 <p align="center">
-<img src="demo.jpg" width="600" height="500"> 
+<img src="demo.jpg" width="800" height="500"> 
 </p>
  
